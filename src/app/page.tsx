@@ -28,7 +28,7 @@ export default function Home() {
   }
 
   let isChristmas = false
-  if (new Date().getMonth() === 11) isChristmas = true
+  if (new Date().getMonth() === 02) isChristmas = true
 
   return (
     <>
